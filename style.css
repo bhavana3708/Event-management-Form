@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.categories {
+    border: 0.1em solid lightblue;
+    fill: solid yellow;
+    padding: 10px;
+    font: 12px;
+    margin: 10px 0;
+}
+
+.my-form {
+    border: 1px solid grey;
+    padding: 10px;
+    display: block;
+}
+
+.my-form .form-control {
+    padding-bottom: 15px;
+}
+
+.my-form label {
+    display: block;
+}
+
+.my-form input {
+    padding: 8px;
+    color: #888;
+    width: 75%;
+    box-sizing: border-box;
+}
